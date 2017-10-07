@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PharosCitiesTask</string>
+
+    <string name="server_error">Failed to connect</string>
+    <string name="no_connection">No internet connection</string>
+
+    <string name="loading_error">An error while loading data</string>
+
+    <string name="main_activity_title">Cities</string>
+
+    <string name="no_results">No search results</string>
+
+
+    <string name="api_key">AIzaSyCRHMIlrgR_4cPflXe_o8yRz4wP9l9Bo6U</string>
+</resources>

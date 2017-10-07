@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+
+    <dimen name="card_padding">5dp</dimen>
+    <dimen name="close_icon_size">50dp</dimen>
+    <dimen name="wifi_icon_size">100dp</dimen>
+
+    <dimen name="map_height">150dp</dimen>
+</resources>
